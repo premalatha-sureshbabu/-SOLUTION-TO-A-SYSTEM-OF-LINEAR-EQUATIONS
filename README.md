@@ -40,7 +40,7 @@ print(sol)
 ```
 
 ## Output:
-![](./matrix.png)
+![output](/matrix.png)
 
 ## Result: 
 
